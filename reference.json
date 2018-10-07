@@ -4,8 +4,6 @@
       "DescribeContinuousBackups",
       "DescribeBackup",
       "DescribeReservedCapacity",
-      "PurchaseReservedCapacityOfferings",
-      "ListBackups",
       "DeleteBackup",
       "Query",
       "DeleteItem",
